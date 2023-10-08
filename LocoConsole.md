@@ -100,7 +100,7 @@ namespace Loco.Commands
     {
         public MyCommand()
         {
-			CommandName = "mycommand";
+	    CommandName = "mycommand";
             Description = "I'm a shining command! glistening in LocoMotion!";
         }
 
